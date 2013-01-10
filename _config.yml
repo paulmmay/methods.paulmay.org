@@ -1,0 +1,36 @@
+markdown: rdiscount
+pygments: true
+permalink: /:categories/:title
+exclude: ["readme.md", "Gemfile", "Gemfile.lock", "config.ru"]
+name: Method Statement
+description: Paul May's Blog
+url: http://www.methods.cc
+
+# this goes inside _config.yml. Change as required
+navigation:
+- text: Work
+  url: /work/index.html
+  cleanurl: /work/
+  layout: project
+- text: Blog
+  url: /blog/index.html
+  cleanurl: /blog/
+  layout: post
+- text: About
+  url: /about/index.html
+  cleanurl: /about/
+  layout: about
+  
+secondary:
+- text: Twitter
+  url: http://twitter.com/paulmmay
+  cleanurl: http://twitter.com/paulmmay
+  layout: default
+- text: RSS
+  url: /feed.xml
+  cleanurl: /feed.xml
+  layout: default
+- text: Colophon
+  url: /colophon/index.html
+  cleanurl: /colophon/
+  layout: default

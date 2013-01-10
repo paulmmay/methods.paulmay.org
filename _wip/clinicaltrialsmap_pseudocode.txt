@@ -1,0 +1,12 @@
+//request the search URL on clinicaltrials.gov as XML
+// sample URL:
+http://clinicaltrials.gov/ct2/results?term=&recr=Open&rslt=&type=&cond=&intr=&outc=&spons=&lead=&id=&state1=&cntry1=EU%3AIE&state2=&cntry2=&state3=&cntry3=&locn=&gndr=&fund=3&rcv_s=&rcv_e=&lup_s=&lup_e=&displayxml=true
+//foreach clinical_study (MODEL)
+//look at the nct_id
+//sample nct_id: NCT01160705
+//request the URL for the individual clinical_study
+//sample url: http://clinicaltrials.gov/ct2/show/NCT01160705?recr=Open&cntry1=EU%3AIE&fund=3&rank=1?displayxml=true
+//foreach location (MODEL)
+//look at the facility
+//look at the address of the facility
+//geocode the address of the facility returning a lat, lon
