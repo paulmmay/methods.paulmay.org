@@ -130,12 +130,8 @@ p:first-child {
 text-indent: 0; 
 }
 
-.content p:first-child{
-/*font-family: droid-serif; 
-font-size: 1.6em; 
-font-weight: 600;
-margin-bottom: 0.8em; 
-line-height: 1.8em;*/
+.invisible{
+display:none;
 }
 
 p strong{
