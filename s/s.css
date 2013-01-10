@@ -58,16 +58,14 @@ font-size: 1em;
 color: rgba(100, 100, 100, 1.00); 
 }		
 
+
 h2 { 
-font-style: normal; 	
-letter-spacing: 0px; 
-line-height: 1.15em; 
-margin-top: 0em; 
-margin-bottom: 0.4em;
-font-weight: 600; 
-font-family: nimbus-sans,sans-serif; 
-font-size: 3em; 
-color: rgba(51, 51, 51, 1.00); 
+font-style: normal;
+font-weight: 400;
+font-family: droid-serif;
+font-size: 2em;
+color: rgba(51, 51, 51, 1.00);
+padding: 0.6em 0 0.6em 0;
 }
 
 h4,h3 { 
@@ -89,7 +87,7 @@ text-align:right;
 width:20%;
 position:absolute;
 right:0;
-top:2.6em;
+top:3em;
 color: rgba(150, 150, 150, 1.00); 
 font-size:0.75em;
 }
@@ -115,10 +113,6 @@ color: rgba(51, 51, 51, 1.00);
 ul.methodlist .methodlist-tags{
 position:absolute;
 right:0;
-}
-
-ul, ol{
-margin-bottom:1em;
 }
 
 p { 
@@ -191,7 +185,7 @@ text-decoration: none;
 }
 
 a:hover{ 
-color: rgba(255, 199, 0, 1.00); 
+color: #831924;
 text-decoration: none; 
 }
 
@@ -221,17 +215,6 @@ border-bottom:5px solid rgba(255, 199, 0, 1.00);
 .youheresmall{
 border-bottom:3px solid rgba(255, 199, 0, 1.00);
 }
-
-footer ul li a{
-text-decoration:none;
-text-indent: 0em; 
-font-size:0.7em;
-font-style: normal; 
-font-weight: 400; 
-font-family: droid-serif; 
-color: rgba(51, 51, 51, 1.00); 
-}
-
 
 
 .mini-text{
@@ -350,8 +333,8 @@ color: rgba(80, 80, 80, 1.00);
 /* ---------- STRUCTURE AND AREA ---------- */
 
 article{
-margin:1em 0 2em 0;
-border-bottom:1px solid rgba(150, 150, 150, 1.00);
+margin:0 0 0 0;
+border-bottom:1px solid rgba(180, 180, 180, 1.00);
 }
 
 
@@ -381,42 +364,15 @@ background: #F9F9F9;
 border-top:10px solid #DB4050;
 }
 
-
-
-
-
-
 #header{
 min-height:3em;
 padding: 1em 0 0 0;
 width: 100%;
-color: rgba(100, 100, 100, 1.00);  
 border-bottom:1px solid rgba(180, 180, 180, 1.00);
 }
 
-footer{
-text-align:center;
-clear:both;
-width:100%;
-/*background:#1C1C1C;*/
-min-height:1em;
-}
-
-#minibio{
-background: #eadcad;
-border-radius:5px;
-position: relative;
-min-height:80px;
-}
-
-#pagination{
-position:absolute;
-top:40px;
-margin:0 auto;
-}
-
-#pagination-next{
-float:right;
+#footer{
+margin-top:1em;
 }
 
 .divider{
@@ -428,18 +384,6 @@ border-bottom:1px solid rgba(150, 150, 150, 1.00);
 
 #copyright{
 float:left;
-}
-
-#header a{
-text-decoration:none;
-font-style: normal; 
-font-weight: 600; 
-font-family: droid-serif; 
-font-size: 1.4em; 
-margin-bottom: 0em; 
-line-height: 1.6em;
-color: rgba(71, 71, 71, 1.00);
-/*color: rgba(100, 100, 100, 1.00); */
 }
 
 #primary, #secondary{
@@ -495,25 +439,41 @@ font-weight: 400;
 font-family: droid-serif; 
 font-size: 0.8em; 
 line-height: 1em;
-
 }
 
 .strapline{
 color: rgba(150, 150, 150, 1.00);
 }
 
+.lighter{
+color: rgba(190, 190, 190, 1.00);
+}
+
 #copyright{
 color: rgba(71, 71, 71, 1.00);
+}
+
+h1.home a{
+color: rgba(100, 100, 100, 1.00);  
+}
+
+h1.post a{
+color: rgba(180, 180, 180, 1.00);  
+}
+
+h1 a{
+text-decoration:none;
+margin-right:0.5em;
+font-style: normal; 
+font-weight: 600; 
+font-family: droid-serif; 
+font-size: 1.4em; 
+line-height: 1.6em;
 }
 
 h1, .strapline{
 display:inline;
 }
-
-h1{
-margin-right:0.5em;
-}
-
 /* ---------- IMAGES ---------- */
 
 .photo{
@@ -555,13 +515,6 @@ color: rgba(71, 71, 71, 1.00);
 position: relative;
 }
 
-#tinybio{
-background: #eadcad;
-border-radius:5px;
-position: relative;
-min-height:70px;
-}
-
 .tiny-text{
 display:block;
 position:absolute;
@@ -574,65 +527,9 @@ line-height: 1.3em;
 color: rgba(51, 51, 51, 1.00); 
 }
 
-.tiny-avatar{
-position: absolute;
-left: 10px;
-top: 10px;
-width: 50px;
-height: 50px;
-}
-
-#map { 
-    display: block;
-    position:absolute;
-    height:auto;
-    bottom:0;
-    top:0;
-    left:0;
-    right:0;
-    /*margin-top:20px;
-    margin-bottom:20px;
-    margin-right:80px;
-    margin-left:80px;*/
-    background-color: #F9F9F9;
-}
-
-#map_intro{
-margin-bottom:1em;
-}
 
 .noindent{
 text-indent:0;
-}
-
-#overlay .updated{
-margin:-1em 0 2em 0;
-font-size: 0.75em; 
-line-height: 100%; 
-color: rgba(100, 100, 100, 1.00); 
-} 
-
-#refreshdate{
-text-align:right;
-}
-
-h1.map{
-display:none;
-}
-
-h2.map{
-line-height: 1.15em; 
-margin-top: 0em; 
-margin-bottom: 0.2em;
-font-weight: 600; 
-font-family: nimbus-sans,sans-serif; 
-font-size: 2.5em; 
-}
-
-h3.map{
-font-size: 1.4em; 
-text-transform: none; 
-margin-bottom: 0.4em; 
 }
 
 p.smaller{
