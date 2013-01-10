@@ -1,4 +1,3 @@
 <div id="footer">
-<div id="copyright">&copy; 2012 Paul May.</div>
-{%include secondary_nav%}
+<div id="copyright">A project by <a href="http://www.paulmay.org">Paul May</a>. Except where otherwise noted, content on this site is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a>.</div>
 </div>

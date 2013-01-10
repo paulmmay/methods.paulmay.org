@@ -1,5 +1,3 @@
 <div id="header">
-<div id="masthead"><h1><a href="/">Method Statement</a></h1></div>
-<!--<p class="strapline">Witty Strapline Goes Here</p>
-<div id="primary">{% include primary_nav %}</div>-->
+<h1><a href="/">Method Statement</a></h1><span class="strapline">A collection of ways of doing things.</span>
 </div>
