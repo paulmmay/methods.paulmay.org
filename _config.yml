@@ -1,6 +1,6 @@
 markdown: rdiscount
 pygments: true
-permalink: /:categories/:title
+permalink: /:title
 exclude: ["readme.md", "Gemfile", "Gemfile.lock", "config.ru"]
 name: Method Statement
 description: Paul May's Blog
