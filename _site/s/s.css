@@ -274,7 +274,7 @@ border-top:3px solid #f7f4d5;
 background: #fbfaeb;
 }
 
-.method-description p{
+p.method-description{
 text-indent:0;
 }
 
