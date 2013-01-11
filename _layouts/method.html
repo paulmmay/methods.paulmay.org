@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<link rel="alternate" type="application/rss+xml" title="Paul May - Research and Interaction Design" href="/feed.xml" />
+<title>{{page.title}} | Method Statement</title>
+<link rel="stylesheet" href="/s/s.css"/>
+</head>
+<body>
+<div id="wrapper"> 
+{%include headerpost%}
+<article>
+<h2>{{ page.title }}</h2>
+<p class="method-description">{{page.description}}</p>
+{{ content }}
+</article>
+{%include footer%}
+</div><!--wrapper-->
+</body>{%include js%}
+</html>
