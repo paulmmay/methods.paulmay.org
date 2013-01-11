@@ -5,7 +5,7 @@ author-bio: http://www.paulmay.org/about
 method: 00
 url: run-a-meeting
 comments: false
-layout: post
+layout: method
 categories: [methods]
 tags: [meeting]
 date: 09-01-2013

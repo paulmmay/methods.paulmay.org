@@ -5,7 +5,7 @@ author-bio: http://www.paulmay.org/about
 method: 00
 url: bike-dismount
 comments: false
-layout: post
+layout: method
 categories: [methods]
 tags: [triathlon, bicycle]
 date: 09-01-2013

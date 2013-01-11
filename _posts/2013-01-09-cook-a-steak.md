@@ -5,7 +5,7 @@ author-bio: http://www.paulmay.org/about
 method: 00
 url: cook-a-steak-medium-rare
 comments: false
-layout: post
+layout: method
 categories: [methods]
 tags: [cooking, steak]
 date: 09-01-2013

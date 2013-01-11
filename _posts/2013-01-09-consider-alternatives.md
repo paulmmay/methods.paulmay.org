@@ -5,7 +5,7 @@ author-bio: http://www.paulmay.org/about
 method: 00
 url: consider-alternative-outcomes
 comments: false
-layout: post
+layout: method
 categories: [methods]
 tags: [negotiation]
 date: 09-01-2013

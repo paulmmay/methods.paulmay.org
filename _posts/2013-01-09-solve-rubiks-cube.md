@@ -5,7 +5,7 @@ author-bio: http://skli.se
 method: 00
 url: solve-rubiks-cube
 comments: false
-layout: post
+layout: method
 categories: [methods]
 tags: [games]
 date: 09-01-2013

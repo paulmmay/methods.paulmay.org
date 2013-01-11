@@ -5,7 +5,7 @@ author-bio: http://www.paulmay.org/about
 method: 00
 url: ask-for-feedback
 comments: false
-layout: post
+layout: method
 categories: [methods]
 tags: [feedback, design]
 date: 09-01-2013

@@ -3,7 +3,7 @@ title: Boil an Egg
 method: 00
 url: boil-an-egg
 comments: false
-layout: post
+layout: method
 categories: [methods]
 tags: [cooking, egg]
 date: 09-01-2013

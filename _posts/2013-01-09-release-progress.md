@@ -3,7 +3,7 @@ title: Release Progress
 method: 00
 url: release-progress
 comments: false
-layout: post
+layout: method
 categories: [methods]
 tags: [design]
 date: 09-01-2013

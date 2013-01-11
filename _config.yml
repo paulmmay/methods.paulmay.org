@@ -15,7 +15,7 @@ navigation:
 - text: Blog
   url: /blog/index.html
   cleanurl: /blog/
-  layout: post
+  layout: method
 - text: About
   url: /about/index.html
   cleanurl: /about/
