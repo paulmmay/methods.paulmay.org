@@ -1,5 +1,5 @@
 ---
-title: Introduce the Think Aloud Protocol
+title: Introducing the Think Aloud Protocol
 author: Paul May
 author-bio: http://www.paulmay.org/about
 method: 00
