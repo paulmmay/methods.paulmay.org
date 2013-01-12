@@ -506,6 +506,7 @@ line-height: 1.4em;
 @media screen and (max-width: 768px) {
 html{font-size:14px;line-height:1.6}
 h2{font-size: 1.6em;line-height:1.6;}
+.methodlist-meta {position:relative;width:100%;padding:0.25em 0 0.25em 0; text-align:left;top:0;}
 h1, .strapline{display:block;}
 #header{padding: 1em 0 1em 0;}
 }
