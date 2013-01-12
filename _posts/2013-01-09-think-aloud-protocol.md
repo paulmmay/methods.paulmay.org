@@ -12,7 +12,7 @@ date: 11-01-2013
 description: The think aloud protocol is used in usability testing. Quite simply, as you're asking a person ("the tester") to use a product (a prototype, a website, a piece of software) you ask them to think aloud so that you understand what they're doing, why they're doing it, what problems or frustrations they experience. This method tells you how to introduce the think aloud protocol to the tester. 
 ---
 ### Equipment
-* A <a href="/methods/test-plan">test plan</a> listing the tasks you'd like the tester to attempt.
+* A <a href="/test-plan">test plan</a> listing the tasks you'd like the tester to attempt.
 * An audio recorder or video camera.
 * Access to the prototype/site/package being tested testing.
 * Screen capture [software](http://silverbackapp.com/) (optional, but recommended).
