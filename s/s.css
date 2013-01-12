@@ -511,8 +511,7 @@ line-height: 1.4em;
 html{font-size:14px;line-height:1.6}
 h2{font-size: 1.6em;line-height:1.6;}
 .methodlist-meta {position:relative;width:100%;padding:0.25em 0 0.25em 0; text-align:left;top:0;}
-article ul li, article ol li{list-style: disc outside;font-size: 1.2em; line-height: 1.5em;margin-left:1em;
-}
+article ul li, article ol li{list-style: disc outside;font-size: 1.2em; line-height: 1.5em;margin-left:1.2em;}
 article p { 
 text-indent: 0.5em; 
 font-size: 1.2em; 
