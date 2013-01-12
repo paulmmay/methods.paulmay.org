@@ -94,6 +94,7 @@ text-indent: 0em;
 position:relative;
 list-style: none; 
 border-bottom:1px solid rgba(180, 180, 180, 1.00);
+padding:0.5em 0 0.5em 0;
 }
 
 ul.methodlist .methodlist-tags{
@@ -504,9 +505,8 @@ line-height: 1.4em;
 
 @media screen and (max-width: 768px) {
 html{font-size:14px;line-height:1.6}
+h2{font-size: 1.6em;line-height:1.6;}
 h1, .strapline{display:block;}
 #header{padding: 1em 0 1em 0;}
-li.project{width:48%;float:left;text-decoration:none;list-style:none;margin:0 0 1em 0;padding:0;}
-#projects-list li:nth-child(odd) {margin-right:2%;}
 }
 
