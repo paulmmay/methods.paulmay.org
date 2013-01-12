@@ -520,6 +520,7 @@ line-height: 1.4em;
 @media screen and (max-width: 768px) {
 html{font-size:14px;line-height:16px;}
 h1, .strapline{display:block;}
+#header{padding: 1em 0 1em 0;}
 li.project{width:48%;float:left;text-decoration:none;list-style:none;margin:0 0 1em 0;padding:0;}
 #projects-list li:nth-child(odd) {margin-right:2%;}
 }
