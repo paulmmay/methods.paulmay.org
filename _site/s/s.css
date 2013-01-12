@@ -246,6 +246,10 @@ border-radius: 12px;
 
 /* Method Detail */
 
+article h2{
+padding:0.5em 0 0.5em 0;
+}
+
 article ul, article ol{
 margin-bottom: 1.6em; 
 }
