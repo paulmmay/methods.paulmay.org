@@ -12,6 +12,9 @@
 {%include headerpost%}
 <article>
 <h2>{{ page.title }}</h2>
+<div id="method-meta">
+<p class="method-updated">Updated: {{ page.date | date: "%d %B %Y" }}</p>
+</div>
 <p class="method-description">{{page.description}}</p>
 {{ content }}
 </article>

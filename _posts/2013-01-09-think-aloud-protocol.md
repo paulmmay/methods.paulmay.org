@@ -12,15 +12,21 @@ date: 11-01-2013
 description: The think aloud protocol is used in usability testing. Quite simply, as you're asking a person ("the tester") to use a product (a prototype, a website, a piece of software) you ask them to think aloud so that you understand what they're doing, why they're doing it, what problems or frustrations they experience. This method tells you how to introduce the think aloud protocol to the tester. 
 ---
 ### Equipment
-* A <a href="/test-plan">test plan</a> listing the tasks you'd like the tester to attempt.
-* An audio recorder or video camera.
+* A <a href="/test-plan">test plan</a> that gives background information about the test.
+* A <a href="/test-script">test script</a> listing the tasks you'd like the tester to perform	.
+* Screen capture software <span class="super">1</span>.
+* A video camera and/or audio recorder <span class="super">2</span>.
 * Access to the prototype/site/package being tested testing.
-* Screen capture [software](http://silverbackapp.com/) (optional, but recommended).
+* Chilled water for the tester to drink, a glass.
+* A gift or payment to thank the tester for their time.
 
 ### Method
 * Welcome and thank the participant and introduce yourself.
+* Give the tester their gift or payment and thank them for their time <span class="super">3</span>.
+* Briefly describe the product that is being tested<span class="super">1</span>.
 * Tell the tester that *they* are not being tested. The product's quality is being tested.
 * Reassure the tester that it's okay if they experience difficulties. 
+* Tell them what to do if they have questions.<span class="super">2</span>
 * Tell the tester that an [audio, video] recording will be made of the test.
 * Ask the tester to sign a <a href="/methods/usability-test-waiver">waiver</a>.  
 * Ask the tester if she has any questions.
@@ -49,5 +55,10 @@ We’re going to record what happens on the screen as you navigate through the i
 > So, before I begin I just want to explain a few things. 
 
 
-* Tell the tester that as they go through the test they can ask questions, but that you may not be able to help.
 </div>
+
+1. If you are testing something on a standard computer monitor I really recommend that you use screen recording software like <a href="http://silverbackapp.com">Silverback</a> as well as a video camera as a backup. Screen recording software shows the movement of the mouse pointer, form input and other on-screen features in detail that a camera won't be able to match.
+2. I have been using the same Olympus VN-8100PC digital voice recorder for years. I use it as a backup to the video camera and screen recording software during usability testing, and when I'm recording research interviews. It works for me. Using a video camera is a good idea when you're testing paper prototypes, applications on mobile devices, or anything physical/tactile.  
+3. I do this *before* starting the test to avoid the perception that the payment/gift is a contingent on them being positive about the product being tested. My thinking that once the person already has the envelope in their pocket they're more likely to give frank answers.
+4. Keep this brief, factual and as objective as possible. "We're asked you here today to use a new travel website. The site allows you to compare flight prices from a number of airlines" rather than "We're excited to let you try our groundbreaking new service that helps people like you save money by making the process of comparing flight prices insanely easy - it's just amazing". Straying into enthusiastic language will prime the tester to hold back negative feedback and will make you look unprofessional.
+4. Once you've described the task to the tester, it's best if they persists with the task with as little guidance as possible. Usually it's best to tell the tester that it's okay to ask questions, but that you might not be able to answer. Avoid answering questions that help the tester complete the task.
