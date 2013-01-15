@@ -277,11 +277,11 @@ text-indent:0;
 
 blockquote p{
 padding: 0.5em;
-border-top:3px solid #f7f4d5;
-background: #fbfaeb;
-font-size: 0.8em; 
-margin-bottom: 0.8em; 
-color: rgba(51, 51, 51, 1.00); 
+/*border-top:3px solid #f7f4d5;
+background: #fbfaeb;*/
+font-size: 0.7em; 
+margin-bottom: 0.7em; 
+color: rgba(120,120,120, 1.00); 
 }
 
 p.method-description{
@@ -553,6 +553,13 @@ h2{font-size: 1.6em;line-height:1.6;}
 article ul li{list-style: disc outside;font-size: 1.2em; line-height: 1.5em;margin-left:1.2em;}
 article ol li{list-style: numeric outside;font-size: 1em; line-height: 1.4em;margin-left:1.2em;}
 article p { text-indent: 0.5em; font-size: 1.2em; margin-bottom: 0.8em; line-height: 1.5em;}
+li blockquote p{
+/*border-top:3px solid #f7f4d5;
+background: #fbfaeb;*/
+font-size: 0.85em; 
+margin: 0 0 0 0.25em; 
+color: rgba(120,120,120, 1.00); 
+}
 h1, .strapline{display:block;}
 #header{padding: 1em 0 1em 0;}
 }
