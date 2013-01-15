@@ -107,6 +107,8 @@ font-family: droid-serif;
 font-size: 1.3em;
 line-height:1.43em;
 color: rgba(71, 71, 71, 1.00);
+border-bottom:1px solid rgba(230, 230, 230, 1.00);
+padding-bottom:0.25em;
 }
 
 #methodlist-container{
@@ -288,6 +290,7 @@ margin-bottom: 1.6em;
 padding: 0.5em;
 border-top:3px solid #95c9eb;
 background: #c0dff3;
+margin-top:1em;
 }
 
 .method-description p{
@@ -326,8 +329,7 @@ font-size:0.75em;
 
 
 article ol{
-padding-top:3em;
-border-top:1px solid rgba(230, 230, 230, 1.00);
+padding-top:1em;
 }
 
 article ol li{ /*only used for footnotes*/
@@ -424,11 +426,6 @@ color: rgba(101, 101, 101, 1.00);
 padding-bottom:3px;
 }
 
-#content ul li{
-margin-left: 0;
-padding-left: 1em;
-text-indent: -1em;
-}
 
 #primary 	{
 margin:0;
@@ -538,7 +535,7 @@ line-height: 1.4em;
 }
 
  .super{
- font-size:0.5em; 
+ font-size:0.7em; 
  vertical-align:top;
  margin-top:-0.5em;
  line-height:1.25em;
