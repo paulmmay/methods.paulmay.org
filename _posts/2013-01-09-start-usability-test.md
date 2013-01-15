@@ -48,7 +48,7 @@ description: When a product is "usable" it helps a person to do something with a
 >There's a glass of water next to you on the desk. I can get more if you need it. Just ask.
 * Start recording.
 >I'm going to start recording now.
-* Introduce the first task as per the test plan.
+* Introduce the first task as per the test script.
 >Okay, first what I'd like you to do is...
 
 ### References
@@ -61,5 +61,5 @@ description: When a product is "usable" it helps a person to do something with a
 2. Using a video camera is a good idea when you're testing paper prototypes, applications on mobile devices, or anything physical/tactile. You'll mount the camera on a tripod or <a href="http://www.mrtappy.com/">mount</a> so that you can see the product and what the person is doing, and ideally also their voice. 
 3. I use it an inexpensive audio recorded (an Olympus VN-8100PC) as a backup during usability tests. It's also what I use when I do research interviews.
 4. Participants usually know that there is some kind of gift or payment associated with the test. If they know that there is a reward then give it to them *before* starting the test to avoid the perception that the payment/gift is a contingent on them being positive about the product being tested. My thinking that once the person already has the envelope in their pocket they're more likely to give frank answers. If they do not know that there is a gift/payment then I will do this after the test.
-5. Keep this brief, factual and as objective as possible. "We're asked you here today to use a new travel website. The site allows you to compare flight prices from a number of airlines" rather than "We're excited to let you try our groundbreaking new service that helps people like you save money by making the process of comparing flight prices insanely easy - it's just amazing". Straying into enthusiastic language will prime the tester to hold back negative feedback and will make you look unprofessional.
+5. Keep this brief, factual and as objective as possible. If you use overtly enthusiastic language you will prime the tester to hold back negative feedback. Just give the tester enough information to get them started.
 6. It's best if the tester persists with the task with as little guidance as possible. Avoid answering questions that help the tester complete the task. 
