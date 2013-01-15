@@ -7,7 +7,7 @@ url: think-aloud-protocol
 comments: false
 layout: method
 categories: [methods]
-tags: [usability]
+tags: [usability, hci, testing]
 date: 11-01-2013
 description: The think aloud protocol is used in usability testing. Quite simply, as you're asking a person ("the tester") to use a product (a prototype, a website, a piece of software) you ask them to think aloud so that you understand what they're doing, why they're doing it, what problems or frustrations they experience. This method tells you how to introduce the think aloud protocol to the tester. 
 ---
@@ -24,14 +24,15 @@ description: The think aloud protocol is used in usability testing. Quite simply
 * Welcome and thank the participant and introduce yourself.
 * Give the tester their gift or payment and thank them for their time <span class="super">3</span>.
 * Briefly describe the product that is being tested<span class="super">1</span>.
-* Tell the tester that *they* are not being tested. The product's quality is being tested.
+* Explain that the product's quality is being tested.
+* Reassure the tester that *they* are not being tested. 
 * Reassure the tester that it's okay if they experience difficulties. 
 * Tell them what to do if they have questions.<span class="super">2</span>
-* Tell the tester that an [audio, video] recording will be made of the test.
+* Tell the tester that a recording will be made of the test.
 * Ask the tester to sign a <a href="/methods/usability-test-waiver">waiver</a>.  
 * Ask the tester if she has any questions.
 * Start recording.
-* Introduce the first task.
+* Introduce the first task as per the test plan.
 
 ### References
 * [Demo Usability Test](http://www.youtube.com/watch?v=QckIzHC99Xc) - Steve Krug

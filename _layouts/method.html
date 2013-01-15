@@ -13,11 +13,23 @@
 <article>
 <h2>{{ page.title }}</h2>
 <div id="method-meta">
-<p class="method-updated">{{ page.date | date: "%d %B %Y" }}</p>
-</div>
+<p class="method-updated">{{ page.date | date: "%d %B %Y" }}</p></div>
 <p class="method-description">{{page.description}}</p>
 {{ content }}
 </article>
+<!--<div id="side">
+<div id="related">
+
+</div>
+<div id="tags">
+	<ul>
+	{% for tag in page.tags %} 
+    	<li>{{ tag }}</li>
+    {% endfor %}
+    </ul>
+    </div>
+</div>-->
+
 {%include footer%}
 </div><!--wrapper-->
 </body>{%include js%}
