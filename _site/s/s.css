@@ -63,6 +63,7 @@ font-family: droid-serif;
 font-size: 2em;
 line-height:1.6;	
 color: rgba(51, 51, 51, 1.00);
+margin:0.25em 0 0.25em 0;
 }
 
 
@@ -105,7 +106,6 @@ text-indent: 0em;
 position:relative;
 list-style: none; 
 border-bottom:1px solid rgba(180, 180, 180, 1.00);
-padding:0.5em 0 0.5em 0;
 }
 
 ul.methodlist .methodlist-tags{
@@ -257,10 +257,6 @@ border-radius: 12px;
 
 /* Method Detail */
 
-article h2{
-padding:0.5em 0 0.2em 0;
-}
-
 article ul, article ol{
 margin-bottom: 1.6em; 
 }
@@ -303,7 +299,6 @@ margin:0;
 .method-updated{
 color: rgba(150, 150, 150, 1.00); 
 font-size:0.75em;
-margin-bottom:1.5em;
 }
 
 
