@@ -1,5 +1,5 @@
 ---
-title: Get a Usability Test Off to a Good Start
+title: Start a Usability Test
 author: Paul May
 author-bio: http://www.paulmay.org/about
 method: 00
@@ -8,6 +8,7 @@ comments: false
 layout: method
 categories: [methods]
 tags: [usability, hci, testing]
+related:[]
 date: 11-01-2013
 description: When a product is "usable" it helps a person to do something with as little fuss or frustration as possible. One way to check that a product is usable is to observe a person as they use the product while describing what they're doing and why - thinking aloud. After the test you can then make changes to your product to iron out anything that caused problems for the tester. This is a usability test. In this method I describe the steps that I go through to get a usability test off to a good start. In <a href="/usability-moderation">another method</a> I describe my approach to moderating a usability test.
 ---
@@ -54,7 +55,7 @@ description: When a product is "usable" it helps a person to do something with a
 ### References
 * [Demo Usability Test](http://www.youtube.com/watch?v=QckIzHC99Xc) - Steve Krug
 * [Rocket Surgery Made Easy](http://www.sensible.com/rsme.html) - Steve Krug
-* [Thinking Aloud - The Number One Usability Tool](http://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) - Nielsen Norman Group
+* [Thinking Aloud](http://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) - Nielsen Norman Group
 
 #### Notes
 1. If you are testing something on a standard computer monitor I really recommend that you use screen recording software like <a href="http://silverbackapp.com">Silverback</a>. Silverback will record what is happening on the screen. It will also record audio from the computer's microphone, video from a built-in camera or a camera attached via a USB port. It will export all of this to a single video file. 
