@@ -1,0 +1,24 @@
+---
+title: Write a Usability Test Plan
+author: Paul May
+author-bio: http://www.paulmay.org/about
+method: 00
+url: usability-test-plan
+comments: false
+layout: method
+categories: [methods]
+tags: [usability]
+links:
+- text: Start a Usability Test
+  url: /start-usability-test
+date: 12-01-2013
+description: During a usability test you invite a person to use something that you have made to see how well it works. Usability testing is really valuable because it puts the things that you design in direct contact with the people you're designing for. If it's done early and often in the design process it can save a lot of angst and effort later on. <br /><br />Before you carry out a usability test it's very useful to write down why you're testing, what you're testing, who you are asking to carry out the test and the type of information you'd like to get out of the test. This is your usability test plan. This method describes the steps you go through to write a simple usability plan.
+---
+### Method
+* Define the broad purpose of your test. 
+> Example: The purpose of this test is to identify
+* Set a number of measurable goals for your test.
+> Example: Our goal is to develop a list of 
+
+### References
+* [Handbook of Usability Testing](http://www.amazon.com/Handbook-Usability-Testing-Conduct-Effective/dp/0470185481) - Jeff Rubin, Dana Chisnell
