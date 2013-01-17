@@ -54,6 +54,12 @@ font-size: 18px;
 line-height: 20px;
 }
 
+ #footer{
+ border-top: 1px solid rgba(180, 180, 180, 1.00);
+ padding-top:1em;
+ clear:both;
+ }
+
 /* Side */
 #side{
 width:210px;
@@ -146,7 +152,7 @@ ul.methodlist li{
 text-indent: 0em;
 position:relative;
 list-style: none; 
-border-bottom:1px solid rgba(180, 180, 180, 1.00);
+/*border-bottom:1px solid rgba(180, 180, 180, 1.00);*/
 }
 
 ul.methodlist .methodlist-tags{
@@ -369,7 +375,6 @@ color: rgba(71, 71, 71, 1.00);
 
 article{
 margin: 0;
-border-bottom: 1px solid rgba(180, 180, 180, 1.00);
 margin-bottom:1em;
 float:left;
 }
@@ -405,14 +410,6 @@ border-top:10px solid #DB4050;
 min-height:3em;
 padding: 1em 0 0 0;
 width: 100%;
-border-bottom:1px solid rgba(180, 180, 180, 1.00);
-}
-
-.divider{
-clear:both;
-/*border-bottom:5px solid rgba(100, 100, 100, 1.00); */
-/*border-bottom:5px solid #c32535;*/
-border-bottom:1px solid rgba(150, 150, 150, 1.00);
 }
 
 #copyright{
@@ -575,21 +572,19 @@ article{width:100%;}
 }
 
 @media screen and (max-width: 480px) {
- .super{font-size:0.7em; vertical-align:top; margin-top:-0.5em; line-height:1.25em;  } 
+.super{font-size:0.7em; vertical-align:top; margin-top:-0.5em; line-height:1.25em;  } 
 html{font-size:14px;line-height:1.6}
 h2{font-size: 1.6em;line-height:1.6;}
 .methodlist-meta {position:relative;width:100%;padding:0.25em 0 0.25em 0; text-align:left;top:0;}
 article ul li{list-style: disc outside;font-size: 1.2em; line-height: 1.5em;margin-left:1.2em;}
 article ol li{list-style: numeric outside;font-size: 1em; line-height: 1.4em;margin-left:1.2em;}
 article p { text-indent: 0.5em; font-size: 1.2em; margin-bottom: 0.8em; line-height: 1.5em;}
-li blockquote p{
-/*border-top:3px solid #f7f4d5;
-background: #fbfaeb;*/
-font-size: 0.85em; 
-margin: 0 0 0 0.25em; 
-color: rgba(120,120,120, 1.00); 
-}
+#side{ width:100%; float:none; margin:7em 0 0 0; }
+#side ul li{ font-size: 1em; line-height: 1.4em; margin-left: 1.2em; }
+#side h2{ font-style: normal; font-weight: 600; font-family: droid-serif; font-size: 1.3em; line-height: 1.43em; color: rgba(71, 71, 71, 1.00); border-bottom: 1px solid rgba(230, 230, 230, 1.00); padding-bottom: 0.25em; }
+li blockquote p{ /*border-top:3px solid #f7f4d5; background: #fbfaeb;*/ font-size: 0.85em; margin: 0 0 0 0.25em; color: rgba(120,120,120, 1.00); }
 h1, .strapline{display:block;}
 #header{padding: 1em 0 1em 0;}
 }
+
 
