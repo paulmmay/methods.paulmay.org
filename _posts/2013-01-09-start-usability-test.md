@@ -10,7 +10,7 @@ categories: [methods]
 tags: [usability, hci, testing]
 links:
 - text: Write a Usability Test Plan
-  url: /write-usability-test-plan
+  url: /usability-test-plan
 date: 11-01-2013
 description: When a product is "usable" it helps a person to do something with as little fuss or frustration as possible. One way to check that a product is usable is to observe a person as they use the product while describing what they're doing and why - thinking aloud. After the test you can then make changes to your product to iron out anything that caused problems for the tester. This is a usability test. In this method I describe the steps that I go through to get a usability test off to a good start.
 ---
