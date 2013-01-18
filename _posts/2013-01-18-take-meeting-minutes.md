@@ -48,7 +48,7 @@ description: A meeting is a gathering of people to make decisions, answer crisp,
 >If anything in the minutes is incorrect please send a correction by tomorrow at 1pm.
 
 ### References
-
+* [How to Take Meeting Minutes](http://www.wikihow.com/Take-Meeting-Minutes) - WikiHow
 
 #### Notes
 1. Decisions to be made and questions to be answered are identified in advance of the meeting and included in the meeting's agenda. The agenda will also list the people attending the meeting, its date, time, and location. 
