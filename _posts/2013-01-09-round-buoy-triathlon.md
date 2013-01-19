@@ -3,7 +3,7 @@ title: Round a Buoy in a Triathlon
 author: Paul May
 author-bio: http://www.paulmay.org/about
 method: 004
-url: round-buoy
+url: round-buoy-triathlon
 comments: false
 layout: method
 categories: [methods]
