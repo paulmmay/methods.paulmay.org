@@ -8,7 +8,7 @@ comments: false
 layout: method
 categories: [methods]
 tags: [triathlon, swimming]
-description: During the swim phase of a triathlon you will usually have to go around a number of buoys that mark out the swim course. In this method I describe the most comfortable way to round a buoy while maintaining some momentum.
+description: During the swim phase of a triathlon you will usually have to go around a number of buoys that mark out the swim course. In this method I describe the most comfortable way to round a buoy while maintaining momentum.
 date: 19-01-2013
 ---
 ### The Wrong Way
