@@ -39,4 +39,5 @@ date: 01-02-2013
 
 ### References
 * [Chocolate Chocolate Muffins Recipe](http://culinaryarts.about.com/od/muffinsquickbreads/r/Chocolate-Chocolate-Muffins.htm) - Fussier recipe
+* [Triple Chocolate Muffins](http://www.bbcgoodfood.com/recipes/640640/triple-chocolate-muffins) - Solidly decadent BBC recipe
 * [Cup to Gram Conversions](http://allrecipes.com/howto/cup-to-gram-conversions/) - Handy list of converted weights
