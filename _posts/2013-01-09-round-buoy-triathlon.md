@@ -12,7 +12,7 @@ description: During the swim phase of a triathlon you will usually have to go ar
 date: 19-01-2013
 ---
 ### The Wrong Way
-The temptation when swimming around buoy is to swim a wide course around the buoy so that you never have to make a sharp turn. This wastes time and energy. Another approach is to swim directly at the buoy and then use brute strength to push to push your body in the right direction. This approach will usually mean coming to a dead stop. When lots of people do this the turn becomes like a traffic jam.
+The temptation when swimming around buoy is to swim a wide course around the buoy so that you never have to make a sharp turn. This wastes time and energy. Another approach is to swim directly at the buoy and then use brute strength to push your body in the right direction. This approach will usually mean coming to a dead stop. When lots of people do this the turn becomes like a traffic jam.
 
 ### The Right Way
 Another, more elegant approach to rounding a buoy will save you time and energy. In this approach you will roll around the buoy once or twice trimming your course while maintaining momentum. The approach is demonstrated in this video by <a href="http://swimtech.co.uk">SwimTech UK</a>.
