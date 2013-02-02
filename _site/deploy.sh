@@ -1,5 +1,4 @@
 cd ~/Dropbox/Sites/methods.paulmay.org
-rm -rf _site
 jekyll
 git add _site/* -f
 git add _posts/* -f
