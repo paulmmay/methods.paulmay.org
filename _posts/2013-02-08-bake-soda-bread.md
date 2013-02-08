@@ -24,18 +24,18 @@ links:
 ### Ingredients
 * 450g (16oz, approx 3.5 cups) plain flour
 * 1 tsp baking soda
-* 1 tsp salt
+*  tsp salt
 * 350ml (12fl oz) buttermilk
 
 ### Method
-* Pre-heat the oven to 200&deg;C (400&deg;F).
+* Pre-heat the oven thoroughly to 230&deg;C (450&deg;F).
 * Mix all the dry ingredients together in a large bowl.
 * Mix in most of the buttermilk (about 300ml or 10fl oz).
 * The dough should come together as a compact, matte ball. If the dough is still crumbly after a couple of minutes of mixing, gradually add in some more of the buttermilk. 
 * Tip the ball of dough into the tin and push it down a little.
 * If you're using a baking tray, place the ball of dough onto it and push it down a little, just to make it a bit more squat.
 * Cut a cross or pattern in the top of the dough.
-* Bake for 40 minutes or thereabouts.
+* Bake for 45 minutes or thereabouts. The bread should sound hollow when you knock on its base.
 * Leave to cool
 
 ### References
